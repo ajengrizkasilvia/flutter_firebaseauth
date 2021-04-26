@@ -6,7 +6,7 @@ TUGAS SIGN IN WITH EMAIL
 
 ![plot](./img/ss1.jpeg)
 ![plot](./img/gb1.jpeg)
-![plot](./img/gb2.jpeg)
+![plot](./img/gb3.jpeg)
 
 ## Getting Started
 
