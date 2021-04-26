@@ -5,8 +5,8 @@ A new Flutter project.
 TUGAS SIGN IN WITH EMAIL
 
 ![plot](./img/ss1.jpeg)
-![plot](./image/gb1.jpeg)
-![plot](./image/gb2.jpeg)
+![plot](./img/gb1.jpeg)
+![plot](./img/gb2.jpeg)
 
 ## Getting Started
 
