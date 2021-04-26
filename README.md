@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+TUGAS SIGN IN WITH EMAIL
+
+![plot](./img/ss1.jpeg)
+![plot](./image/gb1.jpeg)
+![plot](./image/gb2.jpeg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
